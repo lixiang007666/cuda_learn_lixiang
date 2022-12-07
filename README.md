@@ -28,3 +28,18 @@
 [归并排序的 cuda 加速分析](https://blog.csdn.net/weixin_43838785/article/details/126874753?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166989841316782414992304%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166989841316782414992304&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-7-126874753-null-null.nonecase&utm_term=cuda&spm=1018.2226.3001.4450)
 
 [CUDA 高效策略：统计直方图以及共享内存的优化加速](https://blog.csdn.net/weixin_43838785/article/details/126873400?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166989841316782414992304%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=166989841316782414992304&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-8-126873400-null-null.nonecase&utm_term=cuda&spm=1018.2226.3001.4450)
+
+
+[CUDA执行模型概述](https://face2ai.com/CUDA-F-3-1-CUDA%E6%89%A7%E8%A1%8C%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0/)
+
+[理解线程束执行的本质（Part I）](http://www.face2ai.com/CUDA-F-3-2-理解线程束执行的本质-P1/)
+
+[理解线程束执行的本质（Part II）](http://www.face2ai.com/CUDA-F-3-2-理解线程束执行的本质-P2/)
+
+[并行性表现](http://www.face2ai.com/CUDA-F-3-3-并行性表现/)
+
+[避免分支分化](http://www.face2ai.com/CUDA-F-3-4-避免分支分化/)
+
+[循环展开](http://www.face2ai.com/CUDA-F-3-5-展开循环/)
+
+[动态并行](http://www.face2ai.com/CUDA-F-3-6-动态并行/)
